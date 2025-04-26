@@ -14,4 +14,4 @@ Created a dynamic Excel Dashboard that provides a holistic approach to Van Heuse
 - Geographical Distribution of Sales.
 
 ## Dashboard Image -
-https://github.com/RiyonDas/Data-Analysis-Dashboard-on-Van-Heusen-s-2024-Q1-Revenue/blob/main/Van%20Heusen%20Report%20Image.png
+![Van Heusen Report Image](https://github.com/user-attachments/assets/504799e4-9d55-40c0-88e8-754a927fbf43)
