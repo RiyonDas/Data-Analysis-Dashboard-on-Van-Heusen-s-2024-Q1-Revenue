@@ -1,0 +1,2 @@
+# Data-Analysis-Dashboard-on-Van-Heusen-s-2024-Q1-Revenue
+Created a dynamic Excel Dashboard that provides a holistic approach to Van Heusen's Q1 Revenue based on various parameters such as Monthly Analysis, Gender based analysis, location and preferences of outfit genre. It confluences with critical understanding of the company's performance by syncing all parameters into consideration at the same time.
