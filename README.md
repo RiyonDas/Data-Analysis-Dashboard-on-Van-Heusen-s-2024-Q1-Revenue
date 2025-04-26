@@ -3,4 +3,4 @@ Created a dynamic Excel Dashboard that provides a holistic approach to Van Heuse
 
 ## Dataset and Final Report Link -
 - <a href="https://github.com/RiyonDas/Data-Analysis-Dashboard-on-Van-Heusen-s-2024-Q1-Revenue/blob/main/Van%20Heusen%20Q1%20Data%202024%20Analysis.xlsx">Click here to view
-After clicking the above option, Press "RAW" to view the Project.
+- After clicking the above option, Press "RAW" to view the Project.
