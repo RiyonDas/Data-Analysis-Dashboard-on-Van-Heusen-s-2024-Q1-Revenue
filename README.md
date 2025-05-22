@@ -3,7 +3,7 @@ Created a dynamic Excel Dashboard that provides a holistic approach to Van Heuse
 
 ## Dataset and Final Report Link -
 - <a href="https://github.com/RiyonDas/Data-Analysis-Dashboard-on-Van-Heusen-s-2024-Q1-Revenue/blob/d6cf8768bc66cdcc047e2656f991e9d33c2b1c5e/Van%20Heusen%20Sales%20Data%20Q1%202024.csv">Click here to view the DATA
-- 
+- <a href="https://github.com/RiyonDas/Data-Analysis-Dashboard-on-Van-Heusen-s-2024-Q1-Revenue/blob/ccf6ad65e3b31176dcb7641efffcef84a4639e08/Van%20Heusen%20Quaterly%20Data%20Analysis.xlsx">Click here to view the REPORT
 - After clicking the above option, Press "RAW" to view the Project.
 
 ## KPIs -
